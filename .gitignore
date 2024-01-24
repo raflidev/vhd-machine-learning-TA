@@ -1,0 +1,12 @@
+Model/modelh5/CNN_FT/*.h5
+Model/modelh5/CNN_NT/*.h5
+Model/modelh5/LSTM_NT/*.h5
+Model/modelh5/LSTM_FT/*.h5
+Model/modelh5/RNN_FT/*.h5
+Model/modelh5/RNN_NT/*.h5
+# !Model/modelh5/CNN_FT/best_model/
+# !Model/modelh5/CNN_NT/best_model/
+# !Model/modelh5/LSTM_NT/best_model/
+# !Model/modelh5/LSTM_FT/best_model/
+# !Model/modelh5/RNN_FT/best_model/
+# !Model/modelh5/RNN_NT/best_model/
